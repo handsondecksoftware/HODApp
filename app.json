@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Hands On Deck",
+    "slug": "HandsOnDeck",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/HOD_Logo_solid.png",
+    "splash": {
+      "image": "./app/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.handsondeck.handsondeck",
+      "buildNumber": "1.0.4"
+    },
+    "android": {
+      "package": "com.handsondeck.rstolys",
+      "versionCode": 4
+    },
+    "web": {
+      "favicon": "./app/assets/favicon.png"
+    }
+  }
+}

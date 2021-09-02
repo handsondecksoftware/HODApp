@@ -1,0 +1,21 @@
+[{
+    "id": "1",
+    "Name": "Team 1",
+    "NumberOfHours": "99"
+},
+{
+    "id": "2",
+    "Name": "Team 2",
+    "NumberOfHours": "95"
+},
+{
+    "id": "3",
+    "Name": "Team 3",
+    "NumberOfHours": "90"
+},
+{
+    "id": "4",
+    "Name": "Team 4",
+    "NumberOfHours": "87"
+}
+]
